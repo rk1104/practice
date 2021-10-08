@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'weeebaps'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C36F0145EB254640ACA328D912FD6CBD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2BC5BE4A556D43059595D5C798630F4F }}
           package: .
